@@ -1,4 +1,4 @@
-# 📦🛍️ Mini Project 3 PBO - Sistem Jasa Titip Belanja Luar Negeri
+# 📦🛍️ Mini Project 3 PBO — Sistem Jasa Titip Belanja Luar Negeri
 
 ## 👩‍💻 1. Identitas diri dan project
 
@@ -1288,11 +1288,11 @@ Setiap konsep mempunyai peran masing-masing dalam menyelesaikan masalah pada sis
 - **Interface** membantu menentukan perilaku tertentu yang dapat digunakan oleh beberapa class dengan kebutuhan implementasi yang berbeda.
 - **MVC** membantu memisahkan data, tampilan, dan proses sehingga program lebih mudah dipahami.
 
-Pengembangan ini juga menunjukkan bahwa desain class harus dibuat berdasarkan tanggung jawabnya. Misalnya, `Barang` tidak seharusnya menangani proses transaksi karena tugasnya adalah menyimpan informasi barang.
+➢ Pengembangan ini juga menunjukkan bahwa desain class harus dibuat berdasarkan tanggung jawabnya. Misalnya, `Barang` tidak seharusnya menangani proses transaksi karena tugasnya adalah menyimpan informasi barang.
 
-Selain itu, pengembangan fitur seperti opsi membatalkan input dengan `0` menunjukkan bahwa perancangan program tidak hanya memperhatikan bagaimana kode bekerja, tetapi juga bagaimana pengguna berinteraksi dengan sistem.
+➢ Selain itu, pengembangan fitur seperti opsi membatalkan input dengan `0` menunjukkan bahwa perancangan program tidak hanya memperhatikan bagaimana kode bekerja, tetapi juga bagaimana pengguna berinteraksi dengan sistem.
 
-Dengan demikian, semakin jelas pembagian tanggung jawab antar-class dan semakin baik alur interaksi pengguna, semakin mudah juga program dikembangkan ketika terdapat kebutuhan baru.
+➢ Dengan demikian, semakin jelas pembagian tanggung jawab antar-class dan semakin baik alur interaksi pengguna, semakin mudah juga program dikembangkan ketika terdapat kebutuhan baru.
 
 ---
 
@@ -1300,8 +1300,8 @@ Dengan demikian, semakin jelas pembagian tanggung jawab antar-class dan semakin 
 
 Mini Project 3 **Sistem Jasa Titip Luar Negeri** berhasil dikembangkan dengan menerapkan konsep utama Pemrograman Berorientasi Objek dan struktur MVC.
 
-Konsep **encapsulation, inheritance, abstraction, polymorphism, dan interface** diterapkan secara langsung pada sistem dan memiliki fungsi masing-masing dalam mendukung proses pengelolaan pesanan. Penggunaan abstract class `PesananJastip` menjadi dasar untuk berbagai jenis pesanan, sedangkan `JastipFashion`, `JastipSkincare`, dan `JastipElektronik` memberikan implementasi serta validasi khusus sesuai karakteristik masing-masing. 
+✿ Konsep **encapsulation, inheritance, abstraction, polymorphism, dan interface** diterapkan secara langsung pada sistem dan memiliki fungsi masing-masing dalam mendukung proses pengelolaan pesanan. Penggunaan abstract class `PesananJastip` menjadi dasar untuk berbagai jenis pesanan, sedangkan `JastipFashion`, `JastipSkincare`, dan `JastipElektronik` memberikan implementasi serta validasi khusus sesuai karakteristik masing-masing. 
 
-Interface `BisaDivalidasi` juga digunakan secara nyata dalam proses validasi, bukan hanya sebagai implementasi tambahan pada class. Selain itu, pemisahan `Model`, `View`, dan `Controller` membuat struktur program lebih terorganisir. Pemisahan `Barang`, `Pelanggan`, `Pembayaran`, dan `BatchJastip` juga membantu setiap class mempunyai tanggung jawab yang lebih jelas. Dari sisi pengembangan, Mini Project 3 memperbaiki beberapa bagian dari Mini Project 2, baik dari struktur kode, validasi, alur input, pengelolaan status, maupun fitur pendukung. 
+✿ Interface `BisaDivalidasi` juga digunakan secara nyata dalam proses validasi, bukan hanya sebagai implementasi tambahan pada class. Selain itu, pemisahan `Model`, `View`, dan `Controller` membuat struktur program lebih terorganisir. Pemisahan `Barang`, `Pelanggan`, `Pembayaran`, dan `BatchJastip` juga membantu setiap class mempunyai tanggung jawab yang lebih jelas. Dari sisi pengembangan, Mini Project 3 memperbaiki beberapa bagian dari Mini Project 2, baik dari struktur kode, validasi, alur input, pengelolaan status, maupun fitur pendukung. 
 
-Pengguna juga diberikan kontrol yang lebih baik melalui opsi membatalkan proses input menggunakan `0`, melihat struk, melihat ringkasan, dan mengelola batch jastip. Secara keseluruhan, pengembangan Mini Project 3 memberikan pemahaman bahwa penerapan PBO yang baik bukan hanya tentang memenuhi konsep, tetapi juga tentang bagaimana konsep tersebut digunakan untuk membuat sistem yang lebih terstruktur, mudah dipahami, nyaman digunakan, dan lebih mudah dikembangkan.
+✿ Pengguna juga diberikan kontrol yang lebih baik melalui opsi membatalkan proses input menggunakan `0`, melihat struk, melihat ringkasan, dan mengelola batch jastip. Secara keseluruhan, pengembangan Mini Project 3 memberikan pemahaman bahwa penerapan PBO yang baik bukan hanya tentang memenuhi konsep, tetapi juga tentang bagaimana konsep tersebut digunakan untuk membuat sistem yang lebih terstruktur, mudah dipahami, nyaman digunakan, dan lebih mudah dikembangkan.
