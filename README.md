@@ -648,7 +648,7 @@ Pada Mini Project sebelumnya terdapat masukan mengenai pemisahan tanggung jawab 
 
 ---
 
-## 👤 16. Class Pelanggan
+## 👥 16. Class Pelanggan
 
 Class `Pelanggan` digunakan untuk menyimpan informasi pelanggan.
 
@@ -951,7 +951,7 @@ Pemisahan ini membuat program lebih mudah dipahami karena setiap object memiliki
 
 ---
 
-## 🔁 25. Alur Pengelolaan Pesanan
+## ➡️ 25. Alur Pengelolaan Pesanan
 
 Pengelolaan pesanan pada sistem mencakup beberapa proses utama:
 
@@ -1106,7 +1106,7 @@ Pada bagian ini menampilkan rincian pesanan dalam bentuk struk, termasuk informa
 
 ---
 
-### 🔄 27.7 Menu 6 — Ubah Status
+### 🔀 27.7 Menu 6 — Ubah Status
 
 Pada bagian ini menampilkan proses perubahan status pesanan sesuai dengan tahapan status yang telah ditentukan dalam sistem.
 
