@@ -1,4 +1,4 @@
-# 📦🛍️ Mini Project 3 PBO — Sistem Jasa Titip Belanja Luar Negeri
+# 📦🛍️ Mini Project 3 PBO - Sistem Jasa Titip Belanja Luar Negeri
 
 ## 👩‍💻 1. Identitas diri dan project
 
@@ -1023,7 +1023,7 @@ Pada bagian ini menampilkan tampilan awal **Sistem Jasa Titip Luar Negeri** bese
 
 ---
 
-### 🛒 27.2 Menu 1 — Tambah Pesanan
+### 🛒 27.2 Menu 1 - Tambah Pesanan
 
 Pada bagian ini menampilkan proses penambahan pesanan baru, mulai dari pengisian data pelanggan, barang, jumlah pesanan, kategori barang, detail khusus pesanan, hingga data pembayaran.
 
@@ -1037,7 +1037,7 @@ Pada bagian ini menampilkan proses penambahan pesanan baru, mulai dari pengisian
 
 ---
 
-### 📋 27.3 Menu 2 — Lihat Pesanan
+### 📋 27.3 Menu 2 - Lihat Pesanan
 
 Pada bagian ini menampilkan daftar pesanan yang telah tersimpan di dalam sistem beserta informasi yang berkaitan dengan pesanan tersebut.
 
@@ -1051,7 +1051,7 @@ Pada bagian ini menampilkan daftar pesanan yang telah tersimpan di dalam sistem 
 
 ---
 
-### ✏️ 27.4 Menu 3 — Ubah Pesanan
+### ✏️ 27.4 Menu 3 - Ubah Pesanan
 
 Pada bagian ini menampilkan proses perubahan data pesanan yang sudah tersimpan berdasarkan ID pesanan yang dipilih.
 
@@ -1074,7 +1074,7 @@ Pada bagian ini menampilkan validasi bahwa pesanan sudah berubah statusnya.
 
 ---
 
-### 🗑️ 27.5 Menu 4 — Hapus Pesanan
+### 🗑️ 27.5 Menu 4 - Hapus Pesanan
 
 Pada bagian ini menampilkan proses penghapusan pesanan berdasarkan ID pesanan yang dipilih oleh pengguna.
 
@@ -1090,7 +1090,7 @@ Sebelum pesanan benar-benar dihapus, sistem akan meminta konfirmasi kepada pengg
 
 ---
 
-### 🧾 27.6 Menu 5 — Lihat Struk
+### 🧾 27.6 Menu 5 - Lihat Struk
 
 Pada bagian ini menampilkan rincian pesanan dalam bentuk struk, termasuk informasi barang, jumlah, harga, biaya jastip, metode pembayaran, dan total pembayaran.
 
@@ -1104,7 +1104,7 @@ Pada bagian ini menampilkan rincian pesanan dalam bentuk struk, termasuk informa
 
 ---
 
-### 🔀 27.7 Menu 6 — Ubah Status
+### 🔀 27.7 Menu 6 - Ubah Status
 
 Pada bagian ini menampilkan proses perubahan status pesanan sesuai dengan tahapan status yang telah ditentukan dalam sistem.
 
@@ -1127,7 +1127,7 @@ Pada bagian ini menampilkan validasi bahwa pesanan sudah berubah statusnya.
 
 ---
 
-### 📊 27.8 Menu 7 — Ringkasan Pesanan
+### 📊 27.8 Menu 7 - Ringkasan Pesanan
 
 Pada bagian ini menampilkan ringkasan informasi pesanan yang telah tersimpan sehingga pengguna dapat melihat gambaran pesanan secara lebih singkat.
 
@@ -1141,7 +1141,7 @@ Pada bagian ini menampilkan ringkasan informasi pesanan yang telah tersimpan seh
 
 ---
 
-### 📦 27.9 Menu 8 — Batch Jastip
+### 📦 27.9 Menu 8 - Batch Jastip
 
 Pada bagian ini menampilkan informasi mengenai **Batch Jastip**, seperti data batch dan informasi perjalanan yang berkaitan dengan proses jastip.
 
@@ -1163,7 +1163,7 @@ Pada bagian ini menampilkan informasi mengenai **Batch Jastip**, seperti data ba
 
 ---
 
-### 🚪 27.10 Menu 9 — Keluar
+### 🚪 27.10 Menu 9 - Keluar
 
 Pada bagian ini menampilkan proses ketika pengguna memilih menu **Keluar** untuk mengakhiri penggunaan program.
 
