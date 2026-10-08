@@ -129,11 +129,11 @@ Class yang terdapat pada View:
 
 ### Controller
 
-Bagian Controller digunakan untuk mengatur proses yang dilakukan sistem.
+➢ Bagian Controller digunakan untuk mengatur proses yang dilakukan sistem.
 
-Class `PesananController` menjadi penghubung antara input dari View dengan proses pada Model.
+➢ Class `PesananController` menjadi penghubung antara input dari View dengan proses pada Model.
 
-Dengan pemisahan ini, perubahan tampilan tidak harus mengubah seluruh logika sistem.
+➢ Dengan pemisahan ini, perubahan tampilan tidak harus mengubah seluruh logika sistem.
 
 ---
 
