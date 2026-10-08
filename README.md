@@ -1,6 +1,6 @@
-# 📦 Mini Project 3 PBO — Sistem Jasa Titip Belanja Luar Negeri
+# 📦🛍️ Mini Project 3 PBO - Sistem Jasa Titip Belanja Luar Negeri
 
-## 👤 1. Identitas diri dan project
+## 👩‍💻 1. Identitas diri dan project
 
 | Keterangan | Detail |
 |---|---|
@@ -29,7 +29,7 @@ Pengembangan juga dilakukan pada alur penggunaan program, seperti validasi input
 
 ---
 
-## 🎯 3. Tujuan Pengembangan
+## 📌 3. Tujuan Pengembangan
 
 Pengembangan Mini Project 3 bertujuan untuk:
 
@@ -525,7 +525,7 @@ Sistem dapat memastikan bahwa informasi penting untuk produk skincare sudah ters
 
 ---
 
-## 💻 13. Validasi Elektronik
+## 📱 13. Validasi Elektronik
 
 `JastipElektronik` juga mengimplementasikan `BisaDivalidasi`.
 
@@ -732,7 +732,7 @@ Dengan demikian, informasi perjalanan tidak perlu dicampurkan langsung ke dalam 
 
 ---
 
-## 🔄 19. Status Pesanan
+## 📩 19. Status Pesanan
 
 Sistem mempunyai tahapan status pesanan:
 
@@ -920,7 +920,7 @@ Validasi membantu mengurangi kesalahan data dan membuat interaksi program menjad
 
 ---
 
-## 🧱 24. Pemisahan Barang dan Pesanan
+## 📤 24. Pemisahan Barang dan Pesanan
 
 Salah satu perbaikan dari Mini Project sebelumnya adalah pemisahan tanggung jawab antara `Barang` dan `PesananJastip`.
 
@@ -1088,7 +1088,7 @@ Pada bagian ini menampilkan proses penghapusan pesanan berdasarkan ID pesanan ya
   </tr>
 </table>
 
-Jadi sebelum benar-benar dihapus, sistem akan mengvalidasi kembali apakah benar ingin di hapus? 
+Sebelum pesanan benar-benar dihapus, sistem akan meminta konfirmasi kepada pengguna untuk memastikan bahwa pesanan yang dipilih memang ingin dihapus.
 
 ---
 
@@ -1227,7 +1227,7 @@ Penerapan konsep tersebut tidak hanya dilakukan untuk memenuhi ketentuan tugas, 
 
 ---
 
-## 🏷️ 29. Class dan Tanggung Jawab
+## ⚖️ 29. Class dan Tanggung Jawab
 
 | Class | Tanggung Jawab |
 |---|---|
@@ -1296,7 +1296,7 @@ Dengan demikian, semakin jelas pembagian tanggung jawab antar-class dan semakin 
 
 ---
 
-## 🎯 32. Kesimpulan
+## 📑 32. Kesimpulan
 
 Mini Project 3 **Sistem Jasa Titip Luar Negeri** berhasil dikembangkan dengan menerapkan konsep utama Pemrograman Berorientasi Objek dan struktur MVC.
 
