@@ -19,13 +19,13 @@
 
 Mini Project 3 merupakan pengembangan lanjutan dari **Sistem Jasa Titip Luar Negeri** yang telah dibuat pada Mini Project 2.
 
-Sistem ini digunakan untuk membantu proses pengelolaan pesanan jasa titip, mulai dari data pelanggan, barang yang dipesan, pembayaran, batch perjalanan, sampai dengan status pesanan.
+➤ Sistem ini digunakan untuk membantu proses pengelolaan pesanan jasa titip, mulai dari data pelanggan, barang yang dipesan, pembayaran, batch perjalanan, sampai dengan status pesanan.
 
-Pada versi ini, sistem dikembangkan menggunakan beberapa konsep utama Pemrograman Berorientasi Objek, yaitu **encapsulation, inheritance, abstraction, polymorphism, dan interface**. Struktur program juga diperbaiki menggunakan pola **MVC (Model, View, Controller)** agar tanggung jawab setiap bagian program lebih jelas.
+➤ Pada versi ini, sistem dikembangkan menggunakan beberapa konsep utama Pemrograman Berorientasi Objek, yaitu **encapsulation, inheritance, abstraction, polymorphism, dan interface**. Struktur program juga diperbaiki menggunakan pola **MVC (Model, View, Controller)** agar tanggung jawab setiap bagian program lebih jelas.
 
-Selain memenuhi ketentuan utama Mini Project 3, sistem juga dikembangkan dengan validasi khusus berdasarkan jenis pesanan, yaitu **Fashion, Skincare, dan Elektronik**.
+➤ Selain memenuhi ketentuan utama Mini Project 3, sistem juga dikembangkan dengan validasi khusus berdasarkan jenis pesanan, yaitu **Fashion, Skincare, dan Elektronik**.
 
-Pengembangan juga dilakukan pada alur penggunaan program, seperti validasi input yang lebih baik, opsi membatalkan proses input dengan `0`, pengelolaan status pesanan, riwayat status, batch jastip, struk, serta ringkasan pesanan.
+➤ Pengembangan juga dilakukan pada alur penggunaan program, seperti validasi input yang lebih baik, opsi membatalkan proses input dengan `0`, pengelolaan status pesanan, riwayat status, batch jastip, struk, serta ringkasan pesanan.
 
 ---
 
