@@ -697,7 +697,6 @@ Object pembayaran kemudian dapat digunakan oleh `PesananJastip`.
 ### Mengapa dipisahkan?
 
 Pembayaran merupakan bagian dari transaksi, tetapi bukan merupakan data dasar barang maupun pelanggan.
-
 Dengan adanya class tersendiri, tanggung jawab sistem menjadi lebih jelas dan lebih mudah dikembangkan apabila nantinya terdapat tambahan seperti status pembayaran atau informasi transaksi lainnya.
 
 ---
@@ -727,7 +726,6 @@ private String statusBatch;
 ### Manfaat
 
 Batch membantu mengelompokkan pesanan berdasarkan perjalanan jasa titip tertentu.
-
 Dengan demikian, informasi perjalanan tidak perlu dicampurkan langsung ke dalam data barang.
 
 ---
@@ -1223,7 +1221,7 @@ Selain itu, validasi juga diterapkan pada jumlah barang, input angka, dan detail
 | **Interface** | `BisaDivalidasi` digunakan untuk validasi khusus pesanan |
 | **MVC** | Pemisahan package `Model`, `View`, dan `Controller` |
 
-Penerapan konsep tersebut tidak hanya dilakukan untuk memenuhi ketentuan tugas, tetapi disesuaikan dengan kebutuhan sistem agar setiap konsep mempunyai fungsi yang jelas.
+✦ Penerapan konsep tersebut tidak hanya dilakukan untuk memenuhi ketentuan tugas, tetapi disesuaikan dengan kebutuhan sistem agar setiap konsep mempunyai fungsi yang jelas.
 
 ---
 
@@ -1247,7 +1245,7 @@ Penerapan konsep tersebut tidak hanya dilakukan untuk memenuhi ketentuan tugas, 
 | `ValidasiInput` | Membantu validasi input pengguna |
 | `SistemJastip_Minpro3` | Menjalankan program |
 
-Pembagian tersebut membantu menjaga agar setiap class tidak memiliki tanggung jawab yang terlalu luas.
+✦ Pembagian tersebut membantu menjaga agar setiap class tidak memiliki tanggung jawab yang terlalu luas.
 
 ---
 
@@ -1271,7 +1269,7 @@ Selain memenuhi konsep wajib Mini Project 3, project ini memiliki beberapa penge
 - Meningkatkan validasi input dibandingkan project sebelumnya.
 - Membuat alur input lebih fleksibel dan mudah digunakan.
 
-Nilai tambah tersebut dibuat berdasarkan kebutuhan sistem, sehingga fitur yang ditambahkan tetap memiliki hubungan dengan proses bisnis jasa titip.
+✦ Nilai tambah tersebut dibuat berdasarkan kebutuhan sistem, sehingga fitur yang ditambahkan tetap memiliki hubungan dengan proses bisnis jasa titip.
 
 ---
 
